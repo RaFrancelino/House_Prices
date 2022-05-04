@@ -20,7 +20,7 @@ As we can see, the best result I got was with XGBoost with **RMSE = 20865.98**, 
 
 **This value is still far from the best, but I stopped here, because my goal was not to be among the first, but to improve my knowledge in this type of analysis and learning.**
 
-**You can find my complete code here: [cod]().**
+**You can find my complete code here: [cod](https://github.com/RaFrancelino/House_Prices/blob/main/Previsao_Preco_Casas_versao_final.ipynb).**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Como podemos ver, o melhor resultado que obtive foi com o XGBoost com **RMSE = 2
 
 **Esse valor ainda está longe de ser o melhor, mas parei por aqui, pois meu objetivo não era ficar entre os primeiros, mas sim aprimorar meus conhecimentos nesse tipo de análise e aprendizado.**
 
-**Você pode encontrar meu código completo aqui: [cod]().**
+**Você pode encontrar meu código completo aqui: [cod](https://github.com/RaFrancelino/House_Prices/blob/main/Previsao_Preco_Casas_versao_final.ipynb).**
